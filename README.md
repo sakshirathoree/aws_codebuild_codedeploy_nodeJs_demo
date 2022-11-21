@@ -1,4 +1,6 @@
 # aws_codebuild_codedeploy_nodeJs_demo
+FORKED JENKINS TUTORIAL BY SANDIP DAS
+#Jenkins Practical Beginners Course for DevOps | CI/CD Pipeline With Jenkins | Learn DevOps Tools Ep1
 This repository contains sample codes to work with AWS 
 
 This Project build_script directory contains build related script, check buildspec.yml file I have integrated the same. 
